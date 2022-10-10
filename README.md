@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there i'm Tal👋 
+
+
+📘 I’m a 2nd year computer science student at Bar-Ilan University.
+
+📫 How to reach me: <a href="https://www.linkedin.com/in/tal-mizrahi-a91199202/"> <img src= "https://user-images.githubusercontent.com/112869076/194754989-431bed8a-979b-4f63-a549-2f74ae95f528.png" width="18" height="18"> </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalMizrahii)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **TalMizrahii/TalMizrahii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
